@@ -1,6 +1,7 @@
+/*
 package homework;
 import java.io.*;
-/*
+
 public class homework1 {
     public static void main(String[] args) {
 
@@ -46,4 +47,4 @@ public class homework1 {
     }
 }
 
-/*
+*/
