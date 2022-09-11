@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Random;
 
-public class homework {
+public class homework3 {
     public static void main(String[] args) {
         /*//1
         ArrayList <Integer> ArrNum =fillArray(15);//вводим размер списка
